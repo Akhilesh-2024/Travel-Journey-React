@@ -1,0 +1,44 @@
+.card{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card-img > img{
+  height: 250px;
+  width: 185px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.textarea{
+  width: 500px;
+}
+
+.location{
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 2px;
+  padding-right: 10px;
+}
+
+.map{
+  color: #918E9B;
+  font-size: 13px;
+  letter-spacing: 1px;
+  text-decoration: underline;
+}
+
+.title{
+  margin: 0;
+}
+
+.date{
+  font-weight: 700;
+}
+
+.info{
+  color: #4a494e;
+}

@@ -1,0 +1,29 @@
+.footer{
+  text-align: center;
+}
+
+.footer input[type='text']{
+  height: 30px;
+  margin-right: 20px;
+  background-color: #dddd;
+  border: none;
+  width: 200px;
+}
+
+button{
+  padding: 10px 30px;
+  border-radius: 10px;
+  margin-right: 20px;
+  border: none;
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.submit{
+  background-color: #0b9608;
+}
+
+.delete{
+  background-color: red;
+}
